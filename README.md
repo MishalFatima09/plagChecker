@@ -22,13 +22,20 @@
    ```bash
    git clone https://github.com/MishalFatima09/plagChecker.git
    cd plagChecker
-  
-### 📚 Use Cases
--Academic assignment similarity checking
--Code comparison
--Text similarity demo for string-matching algorithms
+   
+ ### 📚 Use Cases
 
-###🔍 Behind the Scenes
--Tokenization and word-level comparison
--Case-insensitive matching
--Future upgrades could include: Levenshtein Distance, N-gram analysis, or syntax-aware comparison
+- Academic assignment similarity checking  
+- Code comparison  
+- Text similarity demo for string-matching algorithms
+
+---
+
+### 🔍 Behind the Scenes
+
+- Tokenization and word-level comparison  
+- Case-insensitive matching  
+- Future upgrades could include:
+  - Levenshtein Distance  
+  - N-gram analysis  
+  - Syntax-aware comparison
